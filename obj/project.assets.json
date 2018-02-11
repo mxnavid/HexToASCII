@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/navid/Desktop/Files/hexproject/hexproject.csproj",
+      "projectUniqueName": "/Users/navid/Desktop/Codes/C#HextoASCII/hexproject.csproj",
       "projectName": "hexproject",
-      "projectPath": "/Users/navid/Desktop/Files/hexproject/hexproject.csproj",
+      "projectPath": "/Users/navid/Desktop/Codes/C#HextoASCII/hexproject.csproj",
       "packagesPath": "/Users/navid/.nuget/packages/",
-      "outputPath": "/Users/navid/Desktop/Files/hexproject/obj/",
+      "outputPath": "/Users/navid/Desktop/Codes/C#HextoASCII/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

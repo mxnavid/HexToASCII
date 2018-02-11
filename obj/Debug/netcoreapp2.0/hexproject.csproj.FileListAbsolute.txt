@@ -8,3 +8,13 @@
 /Users/navid/Desktop/Files/hexproject/bin/Debug/netcoreapp2.0/hexproject.pdb
 /Users/navid/Desktop/Files/hexproject/obj/Debug/netcoreapp2.0/hexproject.dll
 /Users/navid/Desktop/Files/hexproject/obj/Debug/netcoreapp2.0/hexproject.pdb
+/Users/navid/Desktop/Codes/C#HextoASCII/bin/Debug/netcoreapp2.0/hexproject.deps.json
+/Users/navid/Desktop/Codes/C#HextoASCII/bin/Debug/netcoreapp2.0/hexproject.runtimeconfig.json
+/Users/navid/Desktop/Codes/C#HextoASCII/bin/Debug/netcoreapp2.0/hexproject.runtimeconfig.dev.json
+/Users/navid/Desktop/Codes/C#HextoASCII/bin/Debug/netcoreapp2.0/hexproject.dll
+/Users/navid/Desktop/Codes/C#HextoASCII/bin/Debug/netcoreapp2.0/hexproject.pdb
+/Users/navid/Desktop/Codes/C#HextoASCII/obj/Debug/netcoreapp2.0/hexproject.csproj.CoreCompileInputs.cache
+/Users/navid/Desktop/Codes/C#HextoASCII/obj/Debug/netcoreapp2.0/hexproject.AssemblyInfoInputs.cache
+/Users/navid/Desktop/Codes/C#HextoASCII/obj/Debug/netcoreapp2.0/hexproject.AssemblyInfo.cs
+/Users/navid/Desktop/Codes/C#HextoASCII/obj/Debug/netcoreapp2.0/hexproject.dll
+/Users/navid/Desktop/Codes/C#HextoASCII/obj/Debug/netcoreapp2.0/hexproject.pdb
