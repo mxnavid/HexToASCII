@@ -49,8 +49,7 @@ using System.Text;
         Main method which takes input from the user and prints out 
         the ASCII String.
          */
-            static void Main(string[] args)
-        {
+            static void Main(string[] args){
             Console.WriteLine("Hi there!");
             Console.WriteLine("Please input your hex:");
             string input = Console.ReadLine();
