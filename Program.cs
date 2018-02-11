@@ -7,8 +7,7 @@ Description: A simple hex to ASCII converter in C#.
 using System;
 using System.Text;
 
-    class Program
-    {
+    class Program{
      
         /**
         hextoASCII is the method that converts the Hexadecimal String 
@@ -16,8 +15,7 @@ using System.Text;
         @input String hexString: String with the hexadecimal values.
         @return string: the method will return a converted ASCII String.
         */
-        public static string hextoASCII(string hexString)
-        {
+        public static string hextoASCII(string hexString){
             if (String.IsNullOrWhiteSpace(hexString)){
                 return "String is invalid.";
             }
